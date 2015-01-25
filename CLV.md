@@ -1,7 +1,7 @@
 Creating useful business insights: customer lifetime value
 ========================================================
 author: Tamara de Heij
-date: Sun Jan 25 21:13:39 2015
+date: Sun Jan 25 21:30:57 2015
 
 Why Customer Value?
 ========================================================
@@ -17,7 +17,7 @@ Most companies follow the strategy of customer intimacy. In this strategie, the 
 
 
 
-transition: rotate
+
 
 The CLV app
 ========================================================
